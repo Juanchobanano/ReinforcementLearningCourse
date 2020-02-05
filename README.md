@@ -1,7 +1,7 @@
  
 # Introduction to Reinforcement Learning.
-* **Dependency**: Laboratorio de análisis de datos (DATALAB).
-* **Teacher**: Juan Esteban Cepeda Baena. 	
+* **Dependency**: *Laboratorio de análisis de datos (DATALAB)*.
+* **Teacher**: Juan Esteban Cepeda Baena, student of computer science and business administration of the National University of Colombia (Email: jecepedab@unal.edu.co / juancepeda.gestion@gmail.com; LinkedIn: https://www.linkedin.com/in/juan-e-cepeda-gestion/)
 * **Requirements**: Basic knowledge of probability, calculus and computer programming (object-oriented programming).
 Hourly Intensity: 9 lectures. 2 hours per lecture (we will dedicate the last 30 minutes of each lecture to practical exercises in order to develop practical knowledge).
 ---
