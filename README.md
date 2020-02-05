@@ -25,25 +25,25 @@ This course is mainly directed at students with a background in science (mathema
 
 ### 5. Course content.
 
-* Lecture 1. Introduction to Reinforcement Learning: About Reinforcement Learning, The Reinforcement Learning Problem, Inside An RL Agent, & Problems within Reinforcement Learning.
+* ***Lecture 1.*** Introduction to Reinforcement Learning: About Reinforcement Learning, The Reinforcement Learning Problem, Inside An RL Agent, & Problems within Reinforcement Learning.
 
-* Lecture 2. Markov Decision Processes (MDP’s): Markov Processes, Markov Reward Processes, Markov Decision Processes & Extensions to MDPs.
+* ***Lecture 2.*** Markov Decision Processes (MDP’s): Markov Processes, Markov Reward Processes, Markov Decision Processes & Extensions to MDPs.
 
-* Lecture 3. Planning by Dynamic Programming: Policy Evaluation, Policy Iteration, Value Iteration, Extensions to Dynamic Programming, Contraction Mapping Theorem.
+* ***Lecture 3.*** Planning by Dynamic Programming: Policy Evaluation, Policy Iteration, Value Iteration, Extensions to Dynamic Programming, Contraction Mapping Theorem.
 
-* Lecture 4. Model-Free Prediction: Monte-Carlo Learning, Temporal Difference Learning & TD(λ).
+* ***Lecture 4.*** Model-Free Prediction: Monte-Carlo Learning, Temporal Difference Learning & TD(λ).
 
-* Lecture 5. Model-Free Control: On-Policy Monte-Carlo Control, On-Policy Temporal-Difference Learning, Off-Policy Learning & Summary.
+* ***Lecture 5.*** Model-Free Control: On-Policy Monte-Carlo Control, On-Policy Temporal-Difference Learning, Off-Policy Learning & Summary.
 
-* Lecture 6. Value Function Approximation: Incremental Methods & Batch Methods.
+* ***Lecture 6.*** Value Function Approximation: Incremental Methods & Batch Methods.
 
-* Lecture 7. Policy Gradient Methods: Finite Difference Policy Gradient, Monte-Carlo Policy Gradient & Actor-Critic Policy Gradient.
+* ***Lecture 7.*** Policy Gradient Methods: Finite Difference Policy Gradient, Monte-Carlo Policy Gradient & Actor-Critic Policy Gradient.
 
-* Lecture 8. Integrating Learning and Planning: Model-Based Reinforcement Learning, Integrated Architectures & Simulation-Based Search.
+* ***Lecture 8.*** Integrating Learning and Planning: Model-Based Reinforcement Learning, Integrated Architectures & Simulation-Based Search.
 
-* Lecture 9. Exploration and Exploitation: Multi-Armed Bandits, Contextual Bandits & MDPs.
+* ***Lecture 9.*** Exploration and Exploitation: Multi-Armed Bandits, Contextual Bandits & MDPs.
 
-* Lecture 10. Project Presentations: Projects presentations & Course conclusion.
+* ***Lecture 10.*** Project Presentations: Projects presentations & Course conclusion.
 
 ### 6. Assessment.
 
